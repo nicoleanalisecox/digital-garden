@@ -2,7 +2,7 @@
 
 # nicole's digital garden 🌱
 
-Explore the garden at [nicoleisgardening.netlify.app](https://nicolesisgardening.netlify.app/).
+Explore the garden at [nicolesgarden.digital](https://nicolesgarden.digital/).
 
 Built from [Maxime Vaillancourt's digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
