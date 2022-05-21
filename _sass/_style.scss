@@ -1,6 +1,6 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
+$color-primary: #4f46e5;
+$color-text: #111827;
+$color-subtext: #6b7280;
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
@@ -27,13 +27,18 @@ time {
   display: block;
   color: $color-subtext;
   margin: 0.5em 0 1em;
+  font-size: 1rem;
 }
 
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: mix($color-text, white, 80%);
+  color: $color-subtext;
   padding-top: 1em;
+}
+
+p {
+  margin: 0.5rem 0;
 }
 
 img {
@@ -71,8 +76,8 @@ h4,
 h5,
 h6 {
   line-height: 1.3;
-  margin-bottom: 0;
-  padding-bottom: 0;
+  margin-bottom: 0.5rem;
+  padding-bottom: 1rem;
 }
 
 a {
@@ -83,7 +88,7 @@ a {
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background: #e0e7ff;
   }
   &:after {
     position: relative;
@@ -100,7 +105,7 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background: #e0e7ff !important;
   color: black !important;
 }
 
