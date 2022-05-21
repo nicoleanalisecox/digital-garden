@@ -1,5 +1,5 @@
 ---
-title: garden lansdcape 🌳
+title: garden landscape 🌳
 ---
 
 This might be a good place to start your exploration - see the graph below! 

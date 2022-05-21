@@ -1,11 +1,12 @@
 ---
 title: themes
 ---
-
-- technology: web development
-- projects I'm building or ideas for projects
+- [[web development]]
+- [[software engineering]]
+- [[1000 days of code]]
+- continuous learning
 - productivity
+- creativity
 - wellbeing
-- digital tools
-- navigating adulthood and life
-- career 
+- digital ecosystems & tools
+- navigating adulthood, life and career
