@@ -45,7 +45,7 @@ State management:
 
 Rendering options for React apps:
 - Create React App - Client Side Rendering (CSR)
-- Next.js - Mix of CSR and Server Side Rendering (SSR)
+- [[Next.js]] - Mix of CSR and Server Side Rendering (SSR)
 - [[Gatsby]] - Static Site Generation (SSG)
 
 Routers:

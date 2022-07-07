@@ -7,7 +7,12 @@ I first came across digital gardening when I took the [Just JavaScript](https://
 She describes it as: 
 > a collection of imperfect notes, essays and ideas growing slowly over time
 
+I love the concept of this
+More messy
 
+Especially great for sharing things that are less 'bloggy' - not enough for a full article
+
+[The Refined Mind's note on digital gardening](https://refinedmind.co/digital-garden)
 
 <hr>
 [[setting up my digital garden]]
