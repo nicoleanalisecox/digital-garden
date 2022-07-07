@@ -3,8 +3,10 @@ title: React
 ---
 
 ## How React Works
+
 ### Components
 What React is made up of. Components are [[JavaScript]] functions that return [[JSX]] markup.
+
 
 ### Things we can do  in React
 
@@ -14,7 +16,8 @@ What React is made up of. Components are [[JavaScript]] functions that return [[
 
 **Respond to events**: _Event handler_ functions can be declared inside components to respond to events. We pass event handlers down (not call them), then React calls the function when the event happens (e.g. on button click).
 
-```JavaScript
+``` javascript
+
 function MyButton() {
   function handleClick() {
     alert('You clicked me!');
@@ -31,8 +34,8 @@ function MyButton() {
 
 ### Data in React
 These are partners in crime and work together. For example, parent components usually keep information in state but then also pass it down to their children through props. 
-[[props]]
-[[state]]
+- [[props]]
+- [[state]]
 
 React Life Cycle
 
@@ -47,5 +50,5 @@ Hooks let you 'hook into' a component's [[render cycle]]. They are special funct
 - useContext
 
 ### Practices & Patterns
-[[an approach for building UIs in React]]
-[[managing state in React]]
+- [[an approach for building UIs in React]]
+- [[managing state in React]]

@@ -180,10 +180,6 @@ https://twitter.com/nicoleisxyz/status/1526993931858223104
 
 Edit: They FEATURED my website in the Gatsby Gazette newsletter for May 2022!!! So cool!
 
-![[GatsbyGazetteFeature.png]]
-
-
-
 🔗  Related:
 -   [nicoleis.xyz](https://nicoleis.xyz)
 
